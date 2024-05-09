@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="cr7">Donde esta CR7?</string>
+    <string name="bye">Bye-bye</string>
+    <string name="btnTouch">Touch BlessRNG</string>
+    <string name="hello">Балковский Александр, РИБО-02-22, вариант 2</string>
+</resources>
